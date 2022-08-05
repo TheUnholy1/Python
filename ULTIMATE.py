@@ -68,7 +68,7 @@ def main():
     b2.bind("<Leave>", on_leaves)
     
     exitb =Button(root,height=2, width=12,text="Exit",fg="black",bg="#F1C40F",font=("Arial 13 bold"),
-                  relief=GROOVE,bd=0,activebackground="#F1C40F", command=root.destroy)
+            relief=GROOVE,bd=0,activebackground="#F1C40F", command=root.destroy)
     exitb.place(x=200,y=430)
     exitb.bind("<Enter>", enters)
     exitb.bind("<Leave>", on_leaves)
