@@ -30,7 +30,7 @@ def testing():
     print("Your score is " + str(score) + " over " + str(quest))
     
 
-# continue yer or no
+# continue yes or no
 while True:
     testing()
     cont = input("Play Again? Yes or No: ")
