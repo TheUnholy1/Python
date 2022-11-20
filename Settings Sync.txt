@@ -11,3 +11,11 @@ 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
 GitHub Token: gho_**********
 GitHub Gist: 1ac5fa457b06346a0b05e372329ab656
 GitHub Gist Type: Secret
+
+
+
+
+token:(12)ghp(12)_8kyxof7bSmw1(222)bEk9jcF4MQ(2222)PAmjbvmz0mZz6v(deleteinsideparenthesis)
+GitHub Token: gho_**(22)******(22)**
+GitHub Gist: (222)1ac5fa457b06346a(22)0b05e372329ab656(22)
+GitHub Gist Type: S(22)ecr(22)et
