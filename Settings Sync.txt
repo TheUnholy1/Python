@@ -1,0 +1,13 @@
+https://itnext.io/settings-sync-with-vs-code-c3d4f126989
+
+github token:
+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
+
+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
+
+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
+
+
+GitHub Token: gho_**********
+GitHub Gist: 1ac5fa457b06346a0b05e372329ab656
+GitHub Gist Type: Secret
