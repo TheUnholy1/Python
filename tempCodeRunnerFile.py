@@ -1,1 +1,1 @@
-red
+.strip()
