@@ -1,1 +1,1 @@
-.strip()
+rint('sdsdsd')
