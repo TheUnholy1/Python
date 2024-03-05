@@ -1,7 +1,7 @@
 import youtube_dl
 
 # URL of the video to be downloaded
-url = "https://youtu.be/pzBdRRjotM0"
+url = "https://youtu.be/1mvbv4mNPoM"
 
 # Path to the directory where the downloaded file will be saved
 save_path = "D:/Jaspher/Downloads"

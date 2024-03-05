@@ -1,6 +1,6 @@
 from pytube import YouTube
 
-LINK = "https://youtu.be/2Q5pLZotsqg" #Paste the link in here
+LINK = "https://youtu.be/1mvbv4mNPoM" #Paste the link in here
 
 yt = YouTube(LINK)
 
