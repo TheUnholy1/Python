@@ -1,0 +1,43 @@
+{
+  "folders": [
+    {
+      "path": "../Java/Java"
+    },
+    {
+      "path": "Python"
+    },
+    {
+      "path": "../C/C-language"
+    },
+    {
+      "path": "../HTML"
+    },
+    {
+      "path": "../C#"
+    },
+    {
+      "path": "../ALCANTARA_JASPHER/1ST-YEAR-FINALS-PROJECT-2ND-SEM"
+    },
+    {
+      "path": "../Java/Eclipse"
+    },
+    {
+      "path": "../../IdeaProjects/IntelliJ_Projects"
+    },
+    {
+      "path": "../../PycharmProjects"
+    },
+    {
+      "path": "../C Sharp"
+    },
+    {
+      "path": "../PROJ_ITEC30"
+    }
+  ],
+  "settings": {
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+  }
+}
